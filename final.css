@@ -1,0 +1,9 @@
+p{
+    font-size:200% ;
+    display: flex;
+    justify-content:center ;
+}
+.bo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#3e7327 ;
+}
